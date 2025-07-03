@@ -37,7 +37,7 @@
 
 | Guts                              | Flex    |
 | --------------------------------- | ------- |
-| 3x Guts (Limit Break rec.ommended) | 3x Flex |
+| 3x Guts (Limit Break recommended) | 3x Flex |
 
 ---
 
