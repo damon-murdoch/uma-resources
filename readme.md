@@ -13,6 +13,30 @@ The overall importance of stats is as follows: `Speed > Power > Stamina > Wit > 
 
 ---
 
+## Important Events
+
+### Inspiration
+
+| Event         | Date                      |
+| ------------- | ------------------------- | 
+| Inspiration 1 | Classic Year, Early April | 
+| Inspiration 1 | Senior Year, Early April  | 
+
+### Summer Camp
+
+| Event         | Date                     |
+| ------------- | ------------------------ |
+| Summer Camp 1 | Classic Year, Early July |
+| Summer Camp 2 | Senior Year, Early July  |
+
+### Skill Upgrades
+
+| Event     | Date                                      | Conditions                                                              |
+| --------- | ----------------------------------------- | ----------------------------------------------------------------------- |
+| Upgrade 1 | Valentine's Day (Senior, early February)  | Turf: > 60,000 fans, Dirt: > 40,000 fans                                |
+| Upgrade 2 | Fan Appreciation Festival (Senior, April) | Turf: > 70,000 fans, Dirt: > 60,000 fans, Chairman friendship ≥ 60      |
+| Upgrade 3 | Christmas (Senior I, late December)       | Turf: > 120,000 fans, Dirt: > 80,000 fans                               |
+
 ## 🏃‍♂️ Running Method Stat Goals
 
 | Running Method   | Speed           | Power           | Guts | Intelligence |
@@ -302,56 +326,6 @@ Certainly! Here's a fully formatted **multi-table Markdown document** that clear
 | Blinding Flash (Gap Closer)        | –      |
 | Sturm Und Drang (Masterful Gambit) | –      |
 | Unyielding (Steadfast)             | Medium |
-
-## ✨ Unique Skill Upgrade Triggers
-
-### 🟩 Basic
-
-| Event | Date                                      | Conditions                                                              |
-| ----- | ----------------------------------------- | ----------------------------------------------------------------------- |
-| 1     | Valentine's Day (Senior, early February)  | Turf: > 60,000 fans, Dirt: > 40,000 fans                             |
-| 2     | Fan Appreciation Festival (Senior, April) | Turf: > 70,000 fans, Dirt: > 60,000 fans, Chairman friendship ≥ 60 |
-| 3     | Christmas (Senior I, late December)       | Turf: > 120,000 fans, Dirt: > 80,000 fans                            |
-
----
-
-### 🟦 Aoharu Ship
-
-| Event | Date                                      | Conditions                                   |
-| ----- | ----------------------------------------- | -------------------------------------------- |
-| 1     | Valentine's Day (Senior, early February)  | Turf: > 60,000 fans, Dirt: > 40,000 fans  |
-| 2     | Fan Appreciation Festival (Senior, April) | Turf: > 70,000 fans, Dirt: > 60,000 fans  |
-| 3     | Christmas (Senior I, late December)       | Turf: > 120,000 fans, Dirt: > 80,000 fans |
-
----
-
-### 🔥 Climax
-
-| Event | Date                  | Conditions                        |
-| ----- | --------------------- | --------------------------------- |
-| 1     | End of Junior Season  | Fans > 5,000, Friendship ≥ 19   |
-| 2     | End of Classic Season | Fans > 60,000, Friendship ≥ 31  |
-| 3     | End of Senior Season  | Fans > 120,000, Friendship ≥ 51 |
-
----
-
-### 🏆 Project L’Arc
-
-| Event | Date                    | Conditions                                               |
-| ----- | ----------------------- | -------------------------------------------------------- |
-| 1     | Classic Class Late June | Win Round 2 of L’Arc representative exchange competition |
-| 2     | Senior Class Late March | Win Round 3 of L’Arc representative exchange competition |
-| 3     | Senior Class Late June  | Win Round 4 of L’Arc representative exchange competition |
-
----
-
-### 🌟 Legends
-
-| Event | Date                        | Conditions               |
-| ----- | --------------------------- | ------------------------ |
-| 1     | Junior Class Late December  | Dream Fest Stella Winner |
-| 2     | Classic Class Late December | Dream Fest Pride Winner  |
-| 3     | Senior Class Late December  | Dream Fest Legend Winner |
 
 ---
 
