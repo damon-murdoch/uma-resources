@@ -2,33 +2,6 @@
 
 ---
 
-## 📖 Table of Contents
-
-1. [General Strategy](#general-strategy)
-2. [Running Method Stat Goals](#running-method-stat-goals)
-3. [Training Focus by Race Type](#training-focus-by-race-type)
-   • [Long Distance](#long-distance)
-   • [Short / Mile / Medium](#short--mile--medium)
-   • ["Guts" Build](#guts-build)
-4. [Stamina Targets](#stamina-targets)
-   • [Early Game](#early-game)
-   • [Senior Year+](#senior-year)
-5. [Stamina & Support Cards (URA Finals)](#stamina--support-cards-ura-finals)
-6. [Uma Musume Skill Overview](#uma-musume-skill-overview)
-   • [Unique Skills](#i-unique-skills)
-   • [Passive Skills](#ii-passive-skills)
-   • [Recovery Skills](#iii-recovery-skills)
-   • [Generic Skills](#iv-generic-skills)
-7. [Unique Skill Upgrade Triggers](#unique-skill-upgrade-triggers)
-   • [Basic](#basic)
-   • [Aoharu Ship](#aoharu-ship)
-   • [Climax](#climax)
-   • [Project L’Arc](#project-larc)
-   • [Legends](#legends)
-8. [References](#references)
-
---- 
-
 ## General Strategy
 
 At the start of every new Scenario, you will want to focus on boosting friendship first. Always train wherever the most supports are to build friendship, then focus on stats.
