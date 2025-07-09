@@ -7,6 +7,8 @@
 At the start of every new Scenario, you will want to focus on boosting friendship first. Always train wherever the most supports are to build friendship, then focus on stats.
 Once you reach level 4 (Orange) friendship level with a support, they will sometimes appear for 'Friendship' training in their preferred stat (i.e. Speed for Speed Support Cards)
 
+There are two Inspiration events during the Career, in April of years 2 and 3.
+
 The overall importance of stats is as follows: `Speed > Power > Stamina > Wit > Guts`
 
 ---
@@ -358,6 +360,9 @@ Certainly! Here's a fully formatted **multi-table Markdown document** that clear
 ### General Strategy
 [DamnJP](https://x.com/DamnJP/status/1939530041131417743)
 [JusagiChan](https://x.com/JusagiChan/status/1939604118060060723)
+
+### Inspiration
+[Gertas](https://steamcommunity.com/sharedfiles/filedetails/?id=3508710417)
 
 ### Skills Tables
 [Haagen17](https://www.reddit.com/r/UmaMusume/comments/1lr3isl/uma_musume_skill_guide_current_global_patch/)
