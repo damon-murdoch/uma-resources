@@ -20,7 +20,7 @@ The overall importance of stats is as follows: `Speed > Power > Stamina > Wit > 
 | Event         | Date                      |
 | ------------- | ------------------------- | 
 | Inspiration 1 | Classic Year, Early April | 
-| Inspiration 1 | Senior Year, Early April  | 
+| Inspiration 2 | Senior Year, Early April  | 
 
 ### Summer Camp
 
