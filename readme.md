@@ -329,6 +329,102 @@ Certainly! Here's a fully formatted **multi-table Markdown document** that clear
 
 ---
 
+## 🎇 Spark Inheritance (Factor System Overview)
+
+At the end of a **Career**, your Uma Musume can generate up to four different **inheritance sparks (factors)**:
+
+* 🟦 **Blue Factors** – Based on final stats
+* 🌸 **Pink Factors** – Aptitude-based
+* 💠 **Unique Skill Factors** – Only for 3★ units and higher
+* ✨ **White Factors** – Skills, races, scenario, etc.
+
+Each spark receives a **★ rating (1★ to 3★)**, which determines its inheritance strength.
+
+---
+
+### 🟦 Blue Factors (Stat Sparks)
+
+These are awarded based on the **final value** of each stat.
+
+| Final Stat Value | 3★ Rate | 2★ Rate | 1★ Rate |
+| ---------------- | ------- | ------- | ------- |
+| **1100+**        | 20%     | 70%     | 10%     |
+| **600+**         | 5%      | 45%     | 50%     |
+| **0+**           | 0%      | 10%     | 90%     |
+
+> 🔁 One of the five main stats (Speed, Stamina, Power, Guts, Wit) is selected **randomly**, and only the **value** of that stat determines the ★ rating.
+
+---
+
+### 🌸 Pink Factors (Aptitude Sparks)
+
+Each Uma Musume is guaranteed to receive **1 Pink Spark** at the end of a Career, boosting **one aptitude** in:
+
+* **Track Type**
+* **Race Distance**
+* **Race Strategy**
+
+The spark is **randomly selected**, but always **aligned with the Uma’s strengths** (e.g. A+).
+
+#### 💡 Additional Notes
+
+* **Pre-career effects**: Aptitudes may start higher (e.g., B → A).
+* **Inspiration events** can grant additional pink sparks during Year 2 or 3, possibly raising aptitudes from A → S.
+* **Star rating** is **random**, regardless of career performance — even losing early can result in 3★.
+
+---
+
+### 💠 Unique Skill Factors (3★ And Above Uma Musume Only)
+
+Uma Musume at **3★ rarity or higher** can inherit a spark for their **Unique Skill**.
+
+* 📈 The ★ rating is **unclear**, but likely calculated similarly to **White Sparks**.
+
+---
+
+### ✨ White Factors (Skill Sparks)
+
+These sparks are generated from **skills, achievements, and scenarios** during the run.
+
+#### 🎯 What Can Trigger a White Spark?
+
+* White skills
+* ◎ Maxed white skills
+* Gold (rare) skills
+* G1 race victories
+* Scenario and race-type conditions
+* Career completion itself
+
+> Each item above is evaluated **independently** for a chance to spark.
+
+#### 📊 Base Spark Rates
+
+| Trigger Type    | Base Chance |
+| --------------- | ----------- |
+| White Skill     | 20%         |
+| ◎ White Skill   | 25%         |
+| Gold Skill      | 40%         |
+| G1 Race Victory | 20%         |
+| Scenario Factor | 20%         |
+
+#### 🧬 Inheritance Bonus
+
+For each **parent or grandparent** with the same factor, the spark chance increases by **×1.1**.
+
+* Max inheritance multiplier: `1.1^6 ≈ 1.772`
+* Example: White skill with 6 ancestors → `20% × 1.772 ≈ 35.43%`
+
+---
+
+### ⭐ Spark ★ Ratings by Uma Rank
+
+| Uma Rank         | 1★ Rate | 2★ Rate | 3★ Rate |
+| ---------------- | ------- | ------- | ------- |
+| **Below SS**     | 50%     | 45%     | 5%      |
+| **SS Rank or ↑** | 20%     | 70%     | 10%     |
+
+---
+
 ## References
 
 ### General Strategy
@@ -337,6 +433,9 @@ Certainly! Here's a fully formatted **multi-table Markdown document** that clear
 
 ### Inspiration
 [Gertas](https://steamcommunity.com/sharedfiles/filedetails/?id=3508710417)
+
+### Inheritance
+[Erzzy/Kireina](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/preview?tab=t.0)
 
 ### Skills Tables
 [Haagen17](https://www.reddit.com/r/UmaMusume/comments/1lr3isl/uma_musume_skill_guide_current_global_patch/)
